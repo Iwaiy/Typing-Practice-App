@@ -5,6 +5,7 @@
 ### Follow the computer's instructions to enter text.
 <img width="896" alt="スクリーンショット 2023-05-29 11 33 14" src="https://github.com/Iwaiy/Typing-Practice-App/assets/98382027/b061d601-d0dc-4376-a94c-61ee073aed2c">
 
+### The speed of typing is measured, and if it is a high score, you will see a fireworks display.
 <img width="898" alt="スクリーンショット 2023-05-29 11 33 52" src="https://github.com/Iwaiy/Typing-Practice-App/assets/98382027/d269579f-2aa9-4389-9ba2-da7d2c1e03fd">
 
 <img width="896" alt="スクリーンショット 2023-05-29 11 34 51" src="https://github.com/Iwaiy/Typing-Practice-App/assets/98382027/6ffb976e-2806-4973-a7fe-6a74cf50d909">
