@@ -8,4 +8,5 @@
 ### The speed of typing is measured, and if it is a high score, you will see a fireworks display.
 <img width="898" alt="スクリーンショット 2023-05-29 11 33 52" src="https://github.com/Iwaiy/Typing-Practice-App/assets/98382027/d269579f-2aa9-4389-9ba2-da7d2c1e03fd">
 
+### Typing speed is measured and the rank is displayed if you are in second place or lower.
 <img width="896" alt="スクリーンショット 2023-05-29 11 34 51" src="https://github.com/Iwaiy/Typing-Practice-App/assets/98382027/6ffb976e-2806-4973-a7fe-6a74cf50d909">
